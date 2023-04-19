@@ -1,7 +1,7 @@
 # backend-SpaceInfo
 Backend Code for SpaceInfo : ecommerce website for Selling electronic products with (MERN stack).
 
-#About The backend code :
+## About The backend code :
 - Using JWTs can be used as an authentication mechanism.
 - using middlewares top check if the user how try to some operations is authenticated or is admin.
 - User can add, delete, update & show all his Contacts.
@@ -16,7 +16,7 @@ Backend Code for SpaceInfo : ecommerce website for Selling electronic products w
 - buy product.
 ..............
 
-#About The Frontend code :
+## About The Frontend code :
 - I first used context api and usereducer for complex state management.
 - use mui to design the pages.
 - sort list of products (by price, inStock, type, categorie, ...).
